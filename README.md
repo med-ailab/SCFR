@@ -1,3 +1,36 @@
+> **Med AI Lab · Innopolis University**  
+> Code and data released alongside a peer-reviewed publication.  
+> Original repository by [Dmitry Lvov](https://github.com/LvovDmitro): <https://github.com/LvovDmitro/SCFR>
+
+---
+
+Source-Causal Finding Router: audits how prior images and reports influence a longitudinal radiology report generator, and selects reports so that findings from the wrong history do not leak into the current report.
+
+### Paper
+
+- **Source-Causal Control of Historical Context in Longitudinal Radiology Report Generation**  
+  D. Lvov, I. Pershin  
+  *NeurIPS 2026, main track* · [link](https://openreview.net/forum?id=GHvYdC6tmg)
+
+### About the lab
+
+The **Med AI Lab** at Innopolis University works on medical AI in which the clinician is part
+of the system rather than its user: eye tracking of radiologists, gaze as a supervision signal
+for medical imaging, electronic health records, and the modelling of human attention in
+language models.
+
+[Website](https://ilya-pershin.com/lab/) · [Publications](https://ilya-pershin.com/publications/) · [All code](https://github.com/med-ailab) · i.pershin@innopolis.ru
+
+### License
+
+MIT, as in the original repository.
+
+---
+
+*Everything below is the original README from [LvovDmitro/SCFR](https://github.com/LvovDmitro/SCFR), left unchanged.*
+
+---
+
 # SCFR: Source-Causal Finding Router
 
 Code for [Source-Causal Control of Historical Context in Longitudinal Radiology Report Generation](https://neurips.cc/virtual/2026/poster/154092), by Dmitry Lvov and Ilya Pershin. NeurIPS 2026 Main Track, poster. [OpenReview](https://openreview.net/forum?id=GHvYdC6tmg).
